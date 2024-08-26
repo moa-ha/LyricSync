@@ -83,10 +83,20 @@ export default function Nav({ openMobile }: Props) {
           </ul>
         )}
       </div>
+
       <div>
         <Link to="collections/new-collection" onClick={() => openMobile(false)}>
           Create a New Collection
         </Link>
+      </div>
+      <div className="demo-info">
+        <p>Please sign in to try LyricSync!</p>
+        <p>
+          <strong>Demo Account:</strong>
+          <br />
+          Email: test@gmail.com <br />
+          Password: Test001!
+        </p>
       </div>
     </nav>
   )

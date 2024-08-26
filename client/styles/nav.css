@@ -33,3 +33,9 @@ nav {
   display: flex;
   flex-direction: column;
 }
+
+.demo-info {
+  padding-top: 50px;
+  text-decoration-line: underline;
+  text-decoration-color: aqua;
+}
