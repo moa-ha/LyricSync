@@ -1,11 +1,12 @@
 # LyricSync
 
-Live: https://lyricsync.up.railway.app/ (Demo Account👉 <i>Email; test@gmail.com Password; Test001!</i>)
-
 Welcome to LyricSync. A full-stack application which allows its user to save the lyrics to their favourite songs. Collections can be created where a set of songs can be compiled and saved. Additionally, the translation of foreign songs can be inputted manually.
 
 This full-stack application utilises React for the front-end, paired with Drizzle and SQLite on the backend, with TypeScript as the primary language across the entire stack.
 
+## Demo
+Live: [https://lyricsync.up.railway.app/]<br>(Demo Account👉 <i>Email; test@gmail.com Password; Test001!</i>)<br>
+<img src="./client/styles/images/LyricSync.gif" alt="Demo Image" style="width: 500px; height: auto;">
 
 ## About
 
@@ -31,6 +32,8 @@ CRUD Operations:
 AUTH:
 * log in functionality
 * authorisation - control CRUD operations according to each user
+
+
 
 ### Stretch Goals
 
